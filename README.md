@@ -74,24 +74,15 @@ BookVerse is a dynamic web-based bookstore that brings the joy of reading to you
 
 ## 🛠️ Installation Steps
 
-```bash
-# Step 1: Download or clone the repo
-git clone https://github.com/Nibtahilsohail/BookVerse.git
+Is project ko GitHub se download ya clone karein.
 
-# Step 2: Move it to XAMPP's htdocs directory
-mv BookVerse/ C:/xampp/htdocs/
+Is folder ko XAMPP ke htdocs folder mein paste karein.
 
-# Step 3: Start Apache and MySQL from XAMPP Control Panel
+XAMPP Control Panel open karein aur Apache & MySQL start karein.
 
-# Step 4: Open phpMyAdmin and create a new database
-# Name it: bookverse
+Browser mein phpMyAdmin open karein aur bookverse naam ka naya database banayein.
 
-# Step 5: Import the SQL schema
-# Use phpMyAdmin or run:
-mysql -u root -p bookverse < create_tables.sql
-
-# Step 6: Run the project in your browser
-http://localhost/bookverse/
+sql/schema.sql file ko import karein us database mein.
 
 ## **📖 Usage Guide**
 
