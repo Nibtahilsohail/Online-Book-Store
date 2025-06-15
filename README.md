@@ -10,12 +10,14 @@ Cart Operations: Add, update, or remove books in the cart, with checkout for log
 Order Tracking: View detailed order history with book titles, quantities, and totals.
 Admin Controls: Manage books and authors with tools for adding, updating, or deleting entries.
 Responsive Interface: Access a mobile-optimized layout for seamless use on any device.
+
 **Tools**
 Backend: PHP for server-side logic, MySQL with PDO for secure database interactions. 💻
 Frontend: HTML, custom CSS with Google Fonts (Poppins), and vanilla JavaScript for dynamic features. 🎨
 Database: MySQL for storing books, authors, customers, orders, and order details. 🗃️
 Web Server: Compatible with Apache or Nginx, with Apache preferred for .htaccess support. 🌐
 No Dependencies: Built without frameworks for a lightweight, high-performance experience. 🚀
+
 **Features**
 Secure Authentication: Register and log in to unlock personalized cart and order functionalities. 🔒
 Dynamic Book Catalog: Browse books with smart filters for search, genre, and sorting by title or price. 📖
@@ -23,6 +25,7 @@ Shopping Cart: Easily add, update, or remove books, with checkout for logged-in 
 Order Management: View detailed order history, including book titles, quantities, and totals. 📜
 Admin Panel: Manage books and authors with tools to add, update, or delete entries. ⚙️
 Responsive Design: Enjoy a mobile-friendly layout optimized for all screen sizes. 📱
+
 **File Descriptions**
 checkout.php: Processes checkout for logged-in users, validating stock, creating orders, and updating quantities using MySQL transactions. Returns JSON responses. 🛍️
 create_tables.sql: Sets up the bookverse MySQL database with tables for authors, books, customers, orders, and order details, including seed data. 📋
