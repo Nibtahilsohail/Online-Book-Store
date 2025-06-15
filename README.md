@@ -4,6 +4,7 @@ Welcome to BookVerse, a captivating online bookstore built to spark your love fo
 
 **Overview 🌟
 **
+
 BookVerse is a dynamic web-based bookstore that brings the joy of reading to your fingertips. Explore a rich book catalog, filter by genre or search for your next favorite story, and fill your shopping cart with ease. Secure user authentication ensures safe login and registration, while an order history page tracks your literary adventures. Admins can manage books and authors effortlessly via a dedicated panel. Powered by vanilla JavaScript and elegant CSS with Google Fonts, BookVerse offers a responsive design that shines on any device, from desktops to smartphones.
 
 **Functionalities 🛠️**
@@ -106,6 +107,6 @@ Admin Tasks: Use the admin panel (if implemented) to manage books and authors wi
 
 **Developer Name: Nibtahil Sohail 
 
-github : 
+**github : https://github.com/Nibtahilsohail**
 **
 License: Yeh project sirf educational purposes ke liye banaya gaya hai. Aap isay freely modify aur use kar sakte hain.
