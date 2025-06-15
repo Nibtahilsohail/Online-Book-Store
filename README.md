@@ -1,5 +1,6 @@
-# Online-Book-Store
+**# Online-Book-Store**
 **BookVerse - Online Book Store 📚**
+
 **Overview**
 BookVerse is a vibrant web-based bookstore built with PHP and MySQL, designed to deliver a seamless and engaging experience for book lovers. Explore a dynamic book catalog, filter by genre or search for your next read, and manage purchases with an intuitive shopping cart. Secure user authentication ensures safe login and registration, while an order history page tracks your literary journey. Admins can effortlessly manage books and authors via a dedicated panel. Powered by vanilla JavaScript and stylish CSS with Google Fonts, BookVerse offers a responsive, mobile-friendly interface that shines across all devices.
 
